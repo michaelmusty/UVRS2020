@@ -5,9 +5,12 @@ with the UVRS scoring for 2020.
 
 ## setup
 
-The heavy lifting is done by the
+We use two packages for extracting tables from pdfs:
 [camelot](https://camelot-py.readthedocs.io/en/master/)
-package which can be installed with `pip` or the `conda-forge`
+and
+[tabula](https://github.com/chezou/tabula-py).
+
+These can be installed with `pip` or the `conda-forge`
 channel of `Anaconda`.
 
 ## paths to race results and rosters
