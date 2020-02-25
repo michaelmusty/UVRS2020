@@ -6,7 +6,7 @@ with the UVRS scoring for 2020.
 ## setup
 
 The heavy lifting is done by the
-[https://camelot-py.readthedocs.io/en/master/](camelot)
+[camelot](https://camelot-py.readthedocs.io/en/master/)
 package which can be installed with `pip` or the `conda-forge`
 channel of `Anaconda`.
 
